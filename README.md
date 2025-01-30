@@ -22,8 +22,9 @@
 <br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=NiazBinSiraj&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact" align='left' width="47%"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NiazBinSiraj&theme=onedark" align='right' width="47%" alt="GitHub Streak" /></a>
 <!-- <img src = "http://github-readme-streak-stats.herokuapp.com?user=NiazBinSiraj&theme=onedark" align='right' width="47%"/> -->
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NiazBinSiraj&theme=dark&hide_border=true" align='right' width="47%" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NiazBinSiraj&theme=dark&hide_border=true" align='right' width="47%" alt="GitHub Streak" /></a> -->
 <!--<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=NiazBinSiraj&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact' align='right' width="47%"/>-->
 
 <!-- Adding more blank lines -->
