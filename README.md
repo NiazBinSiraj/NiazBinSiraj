@@ -1,6 +1,6 @@
 <div align="center">
 
-```bash
+```yaml
 +=======================================+    experience  - ————————————————————————————————————————————---
 |                                       |    . role: ................................ Software Engineer II
 |     ███╗   ██╗██╗ █████╗ ███████╗     |    . company: .................................. Therap (BD) Ltd
@@ -16,14 +16,33 @@
 |         ██╔══██╗██║██║╚██╗██║         |                                                                 
 |         ██████╔╝██║██║ ╚████║         |    skills  - ————————————————————————————————————————————————---
 |         ╚═════╝ ╚═╝╚═╝  ╚═══╝         |    . languages: ....................... Java, Javascript, Python
-|                                       |    . Frameworks: ........................ Spring, Express, React
-|  ███████╗██╗██████╗  █████╗      ██╗  |    . Datebase: ..................... Oracle, PostgreSQL, MongoDB
-|  ██╔════╝██║██╔══██╗██╔══██╗     ██║  |    . ORM: .......................... Hibernate, MyBatis, TypeORM
-|  ███████╗██║██████╔╝███████║     ██║  |    . Tools: .......................... Kafka, CI/CD, Docker, Git
-|  ╚════██║██║██╔══██╗██╔══██║██   ██║  |    . AI Tools: .......... Copilot, Gemini CLI, Stitch NotebookLM
-|  ███████║██║██║  ██║██║  ██║╚█████╔╝  |    . Testing: ........... Junit, TestNG, Selenium, Postman, Jest
+|                                       |    . frameworks: ........................ Spring, Express, React
+|  ███████╗██╗██████╗  █████╗      ██╗  |    . database: ..................... Oracle, PostgreSQL, MongoDB
+|  ██╔════╝██║██╔══██╗██╔══██╗     ██║  |    . orm: .......................... Hibernate, MyBatis, TypeORM
+|  ███████╗██║██████╔╝███████║     ██║  |    . tools: .......................... Kafka, CI/CD, Docker, Git
+|  ╚════██║██║██╔══██╗██╔══██║██   ██║  |    . ai tools: .......... Copilot, Gemini CLI, Stitch NotebookLM
+|  ███████║██║██║  ██║██║  ██║╚█████╔╝  |    . testing: ........... Junit, TestNG, Selenium, Postman, Jest
 |  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝   |                                                                 
 |                                       |    others  - ————————————————————————————————————————————————---
 +=======================================+    . hobby: ................. Traveling, Hiking, Reading, Sports
+
+
+
++========================================================================================================+
+|                                     Competitive Programming Profile                                    |
++========================================================================================================+
+|                    TITLE                                                         |   YEAR   |   RANK   |
++--------------------------------------------------------------------------------------------------------+
+| ACM ICPC Dhaka Regional Online Preliminary                                       |   2020   |    118   |
+| Google Codejam                                                                   |   2020   |   5901   |
+| ACM ICPC Dhaka Regional Onsite                                                   |   2019   |    120   |
+| ACM ICPC Dhaka Regional Online Preliminary                                       |   2019   |    137   |
+| Online Preliminary SRBD Coding Contest                                           |   2018   |     89   |
++========================================================================================================+
+
+
+Dhaka, Bangladesh | niazbinsiraj@gmail.com | linkedin.com/in/niazbinsiraj | niazbinsiraj.github.io
+All rights reserved ©2025
+
 ```
 </div>
