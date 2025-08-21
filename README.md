@@ -3,7 +3,6 @@
 <a title="linkedin" href="https://www.linkedin.com/in/niazbinsiraj/"><img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png"></a>
 <a title="website" href="https://niazbinsiraj.github.io/"><img align="left" alt="Website" width="24px" src="https://img.icons8.com/color/48/000000/internet--v2.png"></a>
 <a title="stackoverflow" href="https://stackoverflow.com/users/27467979/niaz-bin-siraj"><img align="left" alt="Stackoverflow" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"></a>
-<a title="startdev" href="https://stardev.io/developers/NiazBinSiraj"><img align="left" alt="stardev" width="24px" src="https://stardev.io/img/logo.png"></a>
 <p> <img src="https://komarev.com/ghpvc/?username=NiazBinSiraj&label=Profile%20views&color=0e75b6&style=flat" alt="niaz"> </p>
 
 ### Hi there 👋, I am Niaz Bin Siraj
