@@ -20,7 +20,7 @@
 |  ███████╗██╗██████╗  █████╗      ██╗  |    . database: ..................... Oracle, PostgreSQL, MongoDB
 |  ██╔════╝██║██╔══██╗██╔══██╗     ██║  |    . orm: .......................... Hibernate, MyBatis, TypeORM
 |  ███████╗██║██████╔╝███████║     ██║  |    . tools: .......................... Kafka, CI/CD, Docker, Git
-|  ╚════██║██║██╔══██╗██╔══██║██   ██║  |    . ai tools: .......... Copilot, Gemini CLI, Stitch NotebookLM
+|  ╚════██║██║██╔══██╗██╔══██║██   ██║  |    . ai tools: ........ Antigravity, Copilot, Stitch, NotebookLM
 |  ███████║██║██║  ██║██║  ██║╚█████╔╝  |    . testing: ........... Junit, TestNG, Selenium, Postman, Jest
 |  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝   |                                                                 
 |                                       |    others  - ————————————————————————————————————————————————---
@@ -41,8 +41,8 @@
 +========================================================================================================+
 
 
-Dhaka, Bangladesh | niazbinsiraj@gmail.com | linkedin.com/in/niazbinsiraj | niazbinsiraj.github.io
-All rights reserved ©2025
+Dhaka, Bangladesh | niazbinsiraj@gmail.com | linkedin.com/in/niazbinsiraj | niazbinsiraj.com
+All rights reserved ©2026
 
 ```
 </div>
